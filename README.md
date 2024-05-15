@@ -1,42 +1,63 @@
-# Hackathon DSN
+## ⚡️ Hackathon DSN ⚡️
 
-Dépôt pour le Hackathon DSN organisé par la Direction interministérielle du numérique.
+**Embarquez pour une aventure numérique !** 💻
 
-**📙 Retrouvez le Guide du participant sur Outline en cliquant [ici](https://documentation.beta.numerique.gouv.fr/doc/guide-hackathon-dsn-Vvxa7bq3O0)**
+Le Hackathon DSN, organisé par la Direction interministérielle du numérique, vous invite à relever un défi passionnant.
 
-## 👩‍💻 Comment participer ? 
+**🧭 Guide du participant :**
 
-Pour participer au Hackathon vous devez créer un dépôt public (vous pouvez par exemple partir d'un fork de ce dépôt en cliquant [ici](https://github.com/etalab-ia/Hackathon-DSN/fork) puis sur *"Create fork"*).
+[Cliquez ici pour découvrir le guide du participant sur Outline](https://documentation.beta.numerique.gouv.fr/doc/guide-hackathon-dsn-Vvxa7bq3O0)
 
-Votre dépôt servira pour l'évaluation de votre projet à l'issu du Hackathon ! 
+## 🧑‍💻 Lancez-vous !
 
-Bon courage 🔥!
+**Créez votre dépôt public** pour participer au Hackathon.
 
-## 🌸 Rendu
+[Forker ce dépôt](https://github.com/etalab-ia/Hackathon-DSN/fork) et laissez libre cours à votre créativité !
 
-Pour évaluer votre projet merci de compléter ce README avec les informations suivantes : 
+Votre dépôt sera utilisé pour l'évaluation de votre projet. 🏆
 
-### Description
+**Bon courage, l'aventure commence !** 🔥
 
-* *Problématique et proposition de valeur.*
-* *A quelle problématique s’attaque votre projet ?*
-* *Quelle est votre proposition de valeur ?*
+## 🌸 Présentez votre projet
 
-### Solution
+Pour présenter votre projet, complétez ce README avec les informations suivantes :
 
-* *Description de la solution et de ses fonctionnalités*
-* *Quel usage est fait des données ? Que vous permettent-elles de faire ?*
-* *Quelle est la méthode de création de la solution ?*
+### 🚀 Description
 
-### Impact envisagé
+**Quel problème souhaitez-vous résoudre ?**
 
-* *Que permet de faire la solution ?*
-* *Qui sont les usagers visés, et qu’en feraient-ils ?*
+**Aujourd'hui, il est difficile pour un salarié comme pour une entreprise de connaître le salaire juste sur un poste et la bonne structuration en fonction de l'activité.**
 
-### Ressources
+**Un manque de transparence règne sur les rémunérations et la structure organisationnelle des entreprises par secteur et zone géographique.**
 
-* *Lien vers la documentation du projet*
+### 💡 Solution
 
-### [Facultatif] Retours sur la qualité des données exploitées
+**Comment votre projet propose-t-il une solution ?**
 
-* *Quelles sont les difficultés que vous avez rencontrées dans l’usage des données ?*
+**S'appuyer sur des données certifiées pour les anonymiser et en faire des indicateurs pour les particuliers et entreprises.**
+
+### ✨ Impact envisagé
+
+**Quel est l'impact positif que votre projet pourrait avoir ?**
+
+#### 🤝 Pour les individus (salariés et candidats)
+
+* **Fournir une plateforme interactive** où ils peuvent consulter des informations anonymisées sur les salaires moyens par poste, âge et région.
+* **Aider à mieux négocier leurs salaires** ou à choisir des opportunités de carrière en fonction des données réelles du marché.
+
+#### 💼 Pour les entreprises
+
+* **Offrir un outil d'analyse comparative** pour évaluer la structure de leur main-d'œuvre par rapport à des entreprises similaires dans leur secteur.
+* **Identifier les opportunités d'ajustement** en termes de répartition des rôles et de coût des postes.
+
+### 🔗 Ressources
+
+**Partagez le lien de votre pitch :**
+
+[Lien du pitch](https://drive.google.com/drive/folders/1_B3LpIfXbhZSMbNN8wnytPTSnT5VCXy1?usp=sharing)
+
+### 🤔 [Facultatif] Retours sur la qualité des données exploitées
+
+* **Quelles sont les difficultés que vous avez rencontrées dans l'usage des données ?**
+
+**N'hésitez pas à enrichir votre présentation !** 🤩
