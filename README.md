@@ -60,5 +60,6 @@ Pour présenter votre projet, complétez ce README avec les informations suivant
 ### 🤔 [Facultatif] Retours sur la qualité des données exploitées
 
 * **Quelles sont les difficultés que vous avez rencontrées dans l'usage des données ?**
+* Limitation due à la pseudonymisation qui manquait d'un aspect géographique sinon tout était parfait.
 
 **N'hésitez pas à enrichir votre présentation !** 🤩
