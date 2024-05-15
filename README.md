@@ -54,7 +54,7 @@ Pour présenter votre projet, complétez ce README avec les informations suivant
 
 **Partagez le lien de votre pitch :**
 
-[Lien du pitch](https://drive.google.com/drive/folders/1_B3LpIfXbhZSMbNN8wnytPTSnT5VCXy1?usp=sharing)
+[Lien du pitch](https://docs.google.com/presentation/d/1ZOOsjl9FwvBT6NNzuEgA2XXM72pmmzHoyDPLiFAAlg0/edit?usp=drive_link)
 
 ### 🤔 [Facultatif] Retours sur la qualité des données exploitées
 
